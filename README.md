@@ -38,9 +38,7 @@ First of all, I want to explain the main development steps of the development.
 - UI Screen Layouts
 - Aux Classes
 
-### Finally, here are the commits!
-
-### Commit 1: Project Initial Setup
+### Project Initial Setup
 
 - Libraries (build.gradle, app & project)
 - Manifest (Permission and Hilt App)
@@ -50,7 +48,7 @@ First of all, I want to explain the main development steps of the development.
 - Icon added
 - Splash screen added
 
-### Commit 2: Main TvShow List
+### Main TvShow List
 
 - Create all the files needed for this
 - in the three layers of the project
@@ -60,7 +58,7 @@ First of all, I want to explain the main development steps of the development.
 - Dependency Injection Setup
 - Navigation Component Setup
 
-### Commit 3: Detail TvShow Screen
+### Detail TvShow Screen
 
 - Create all the files needed for this
 - Detail Screen Feature with Collapsing Toolbar added
@@ -71,7 +69,7 @@ First of all, I want to explain the main development steps of the development.
 - Http requests, Wrapper, entities, converter, etc. added
 - Repository implementation, DI and Mappers added
 
-### Commit 4: Profile Screen (Favorite List)
+### Profile Screen (Favorite List)
 
 - Create all the files needed for this
 - Profile Screen with Favorite List implemented
@@ -80,7 +78,7 @@ First of all, I want to explain the main development steps of the development.
 - Use case, repository implementation added
 - Dao query, repository and DI implementation added
 
-### Commit 5: Unit Testing
+### Unit Testing
 
 - Aux Tests Libraries added
 - Unit tests added for the most important data flow
@@ -99,9 +97,9 @@ First of all, I want to explain the main development steps of the development.
 * Navigation Component
 
 <p align="left">
-<a><img src="https://i.imgur.com/llF9kV9.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/5HkTFcz.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/eGcpOcc.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
+<a><img src="https://i.imgur.com/llF9kV9.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/5HkTFcz.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/eGcpOcc.png" style="height: 20%; width:20%;" alt="Image App"></a>
 </p>
 
 ### Dependencies
@@ -120,10 +118,10 @@ First of all, I want to explain the main development steps of the development.
 * Coroutines Test
 
 <p align="left">
-<a><img src="https://i.imgur.com/f3LYMJA.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/hlKY3Hw.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/xzFPazn.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/HeGLgb1.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
+<a><img src="https://i.imgur.com/f3LYMJA.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/hlKY3Hw.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/xzFPazn.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/HeGLgb1.png" style="height: 20%; width:20%;" alt="Image App"></a>
 </p>
 
 ### Main features
@@ -137,10 +135,10 @@ First of all, I want to explain the main development steps of the development.
 * Exception handling
 
 <p align="left">
-<a><img src="https://i.imgur.com/4iksdpp.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/0AI5mpu.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/cP0Dcdm.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
-<a><img src="https://i.imgur.com/Ahf9VUV.png" style="height: 20%; width:20%;" alt="Challenge App"></a>
+<a><img src="https://i.imgur.com/4iksdpp.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/0AI5mpu.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/cP0Dcdm.png" style="height: 20%; width:20%;" alt="Image App"></a>
+<a><img src="https://i.imgur.com/Ahf9VUV.png" style="height: 20%; width:20%;" alt="Image App"></a>
 </p>
 
 ### Android components
@@ -158,3 +156,12 @@ First of all, I want to explain the main development steps of the development.
 * Splash Screen
 * Strings values
 * Dimens values
+
+> API documentation based: [The Movie DB](https://api.themoviedb.org/)
+>
+> Get your: [API-KEY](https://www.themoviedb.org/settings/api)
+>
+> (To try the application put your API key in the local.properties file).
+>
+
+# 💬 Contact me on [linkedin.com/in/hva94](https://www.linkedin.com/in/hva94/)
