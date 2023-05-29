@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Mubi</string>
+    <string name="logo_description">Mubi logo</string>
+    <string name="home_title">Tv Shows</string>
+    <string name="try_again">Try again</string>
+    <string name="back">Back</string>
+    <string name="summary">Summary</string>
+
+    <string name="tv_show_popular">Popular</string>
+    <string name="tv_show_top_rated">Top Rated</string>
+    <string name="tv_show_on_tv">On Tv</string>
+    <string name="tv_show_airing_today">Airing Today</string>
+
+    <string name="error_internal_server">Ups! An internal server error occurred.</string>
+    <string name="error_service_unavailable">Ups! Service unavailable</string>
+    <string name="error_fetching_data">Ups! An error happened fetching more data.</string>
+    <string name="error_connectivity">An error occurred while your request was executing.</string>
+    <string name="error_internet">Please check your internet connection and try again.</string>
+    <string name="error_not_found">Ups! We did not find some tv show.</string>
+    <string name="error_unknown">Unknown error occurred.</string>
+    <string name="error_unauthorized">Unauthorized user</string>
+    <string name="error_invalid_request">Invalid request happened</string>
+
+    <plurals name="episodes">
+        <item quantity="one">%1$d Episode</item>
+        <item quantity="other">%1$d Episodes</item>
+    </plurals>
+
+    <string name="profile_title">Profile</string>
+    <string name="user_name">Olivia W. Skinner</string>
+    <string name="user_media">\@OliviaW_Skinner</string>
+    <string name="log_out">Log out</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="no_favorites">No favorites TvShows found.</string>
+
+</resources>
